@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+## David Berto Farias
+
+Seja muito bem vindo a meu repertório pessoal!
+
+Aqui exponho os projetos que acho mais legais que desenvolvo nas horas vagas (não que eu tenha muitas kkkk)!!!!
+
+Fique a vontadade para copiar os códigos e imagens disponibilizados, replicar em seus prório trabalho e criticar propondo melhorias, elas serão muito bem vindas!
+
+
 
 You can use the [editor on GitHub](https://github.com/DavidBerto/personal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
